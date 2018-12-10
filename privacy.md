@@ -4,11 +4,13 @@ title: Điều khoản
 permalink: /privacy/
 ---
 
-# # CHÚNG TÔI LÀ AI
+## CHÚNG TÔI LÀ AI
+
 Địa chỉ website là: https://minhquydesign.com.
 
-THÔNG TIN CÁ NHÂN NÀO BỊ THU THẬP VÀ TẠI SAO THU THẬP
-BÌNH LUẬN
+## THÔNG TIN CÁ NHÂN NÀO BỊ THU THẬP VÀ TẠI SAO THU THẬP
+# BÌNH LUẬN
+
 Khi khách truy cập để lại bình luận trên trang web, chúng tôi thu thập dữ liệu được hiển thị trong biểu mẫu bình luận và cũng là địa chỉ IP của người truy cập và chuỗi user agent của người dùng trình duyệt để giúp phát hiện spam
 
 Một chuỗi ẩn danh được tạo từ địa chỉ email của bạn (còn được gọi là hash) có thể được cung cấp cho dịch vụ Gravatar để xem bạn có đang sử dụng nó hay không. Chính sách bảo mật của dịch vụ Gravatar có tại đây: https://automattic.com/privacy/. Sau khi chấp nhận bình luận của bạn, ảnh tiểu sử của bạn được hiển thị công khai trong ngữ cảnh bình luận của bạn.
