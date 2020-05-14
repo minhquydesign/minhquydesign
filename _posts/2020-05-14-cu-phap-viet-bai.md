@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Cú pháp viết bài
