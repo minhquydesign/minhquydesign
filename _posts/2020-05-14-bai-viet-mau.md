@@ -9,6 +9,14 @@ tags: [hot, summer]
 #h1
 **Hello world**, this is my first Jekyll blog post.
 
+```
+Đây là đoạn văn
+#h1
+**Hello world**, this is my first Jekyll blog post.
+```
+
+# header code
+
 ```javascript
 ---
 template: "post"
@@ -28,3 +36,8 @@ bigimg: "/media/images/blogging/jekyll/jekyllhomepage.png"
 block qoute
 > Block quote
 >> block quote 2
+
+# List
+1. An
+2. ordered
+3. list
