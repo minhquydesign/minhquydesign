@@ -1,22 +1,22 @@
 
 ---
 layout: post
-title: Full demo post title
+title: Cú pháp viết bài
 ---
 
-This is a demo of all styled elements in Jekyll Now.
+Đây là bản demo trong Jekyll Now.
 
-[View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
+[Xem đánh dấu được sử dụng để tạo bài này](https://github.com/minhquydesign/minhquydesign.github.io/edit/master/_posts/2020-05-14-cu-phap-viet-bai.md).
 
-This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
+Đây là một đoạn văn được bao quanh bởi khoảng trắng. Tiếp theo là một số tiêu đề, bị ảnh hưởng bởi phong cách markdown của GitHub.
 
-## Header 2 (H1 is reserved for post titles)##
+## Header 2 (H1 được dành riêng cho tiêu đề bài)##
 
 ### Header 3
 
 #### Header 4
 
-A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
+Đây là liên kết đến [Trang chủ](https://minhquydesign.github.io/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
 
 An image, located within /images
 
@@ -62,16 +62,16 @@ Finally, horizontal lines
 ```
 ---
 layout: post
-title: Markdown Style Guide
+title: Cú pháp viết bài
 ---
 
-This is a demo of all styled elements in Jekyll Now.
+Đây là bản demo trong Jekyll Now.
 
-[View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
+[Xem đánh dấu được sử dụng để tạo bài này](https://github.com/minhquydesign/minhquydesign.github.io/edit/master/_posts/2020-05-14-cu-phap-viet-bai.md).
 
-This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
+Đây là một đoạn văn được bao quanh bởi khoảng trắng. Tiếp theo là một số tiêu đề, bị ảnh hưởng bởi phong cách markdown của GitHub.
 
-## Header 2 (H1 is reserved for post titles)##
+## Header 2 (H1 được dành riêng cho tiêu đề bài)##
 
 ### Header 3
 
