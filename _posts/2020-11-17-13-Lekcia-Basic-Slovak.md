@@ -5,16 +5,13 @@ layout: post
 
 # Slovenčina
 
-- Useful expressions, phrases and short dialogues for the first days in Slovakia with English translation. How you pronounce the words and expressions, you can here from the tape.
+>Useful expressions, phrases and short dialogues for the first days in Slovakia with English translation. How you pronounce the words and expressions, you can here from the tape.
+>Užitočné slová, frázy a krátke dialógy na prvé dni na Slovensku s anglickým prekladom. Výslovnosť počujete z kazety.
 
-Užitočné slová, frázy a krátke dialógy na prvé dni na Slovensku s anglickým prekladom. Výslovnosť počujete z kazety.
-
-Các từ, cụm từ hữu ích và các đoạn hội thoại ngắn cho những ngày đầu tiên ở Slovakia với bản dịch tiếng Anh.  Bạn nghe cách phát âm từ băng.
-
-Peace Corps / Slovakia
+>Các từ, cụm từ hữu ích và các đoạn hội thoại ngắn cho những ngày đầu tiên ở Slovakia với bản dịch tiếng Anh.  Bạn nghe cách phát âm từ băng.
 
 ## Prvá lekcia (1.)
-
+---
 Dobrý deň!
 Good morning! 
 
@@ -39,13 +36,13 @@ Dobré ráno! Dobrý deň! Dobrý večer! Dovidenia! Dobrú noc! Ahoj! pán pani
  - Hi, Peter.
 
 # INTRODUCTION
-``
-This workbook, SLOVENČINA PLUS, has been designed for learners of Slovak – Peace Corps trainees or volunteers. It is suitable for both beginners and intermediate level students and can be used both during and after the Pre-service training (PST). It contains exercises, tasks for listening comprehension, a few songs, articles for reading comprehension, exercises for practicing of pronunciation, a short dictionary, and miscellaneous items. Chapter one contains various types of exercises that are aimed at practicing the vocabulary and selected grammar structures. The vocabulary used in exercises is from the PST. Chapter two contains tasks for listening comprehension. It has to be used together with a tape. Chapter three contains songs. It has to be used together with a tape. Chapter four contains articles for reading comprehension. Some of the articles aim at practicing vocabulary studied in class, while others seek to enlarge the learners’ vocabulary. Chapter five contains exercises for practicing pronunciation. It has to be used together with a tape. Chapter six contains a short dictionary with vocabulary studied during the Pre-service training. In the appendix you will find various materials, for instance puzzles and exercises with pictures which are used during the Pre-service training. PST Slovak Language Instructors
 
-``
+`
+This workbook, SLOVENČINA PLUS, has been designed for learners of Slovak – Peace Corps trainees or volunteers. It is suitable for both beginners and intermediate level students and can be used both during and after the Pre-service training (PST). It contains exercises, tasks for listening comprehension, a few songs, articles for reading comprehension, exercises for practicing of pronunciation, a short dictionary, and miscellaneous items. Chapter one contains various types of exercises that are aimed at practicing the vocabulary and selected grammar structures. The vocabulary used in exercises is from the PST. Chapter two contains tasks for listening comprehension. It has to be used together with a tape. Chapter three contains songs. It has to be used together with a tape. Chapter four contains articles for reading comprehension. Some of the articles aim at practicing vocabulary studied in class, while others seek to enlarge the learners’ vocabulary. Chapter five contains exercises for practicing pronunciation. It has to be used together with a tape. Chapter six contains a short dictionary with vocabulary studied during the Pre-service training. In the appendix you will find various materials, for instance puzzles and exercises with pictures which are used during the Pre-service training. PST Slovak Language Instructors
+`
 
 ## Druhá lekcia (2.)
-
+****
 ako Ako sa máte? Ako sa máš? dobre výborne veľmi tiež A vy? A ty?
 
  A: Dobrý deň, pani Nováková.
