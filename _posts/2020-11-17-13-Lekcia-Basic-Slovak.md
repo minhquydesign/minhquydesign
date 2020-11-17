@@ -6,6 +6,7 @@ layout: post
 # Slovenčina
 
 >Useful expressions, phrases and short dialogues for the first days in Slovakia with English translation. How you pronounce the words and expressions, you can here from the tape.
+
 >Užitočné slová, frázy a krátke dialógy na prvé dni na Slovensku s anglickým prekladom. Výslovnosť počujete z kazety.
 
 >Các từ, cụm từ hữu ích và các đoạn hội thoại ngắn cho những ngày đầu tiên ở Slovakia với bản dịch tiếng Anh.  Bạn nghe cách phát âm từ băng.
@@ -36,13 +37,13 @@ Dobré ráno! Dobrý deň! Dobrý večer! Dovidenia! Dobrú noc! Ahoj! pán pani
  - Hi, Peter.
 
 # INTRODUCTION
-
+---
 `
 This workbook, SLOVENČINA PLUS, has been designed for learners of Slovak – Peace Corps trainees or volunteers. It is suitable for both beginners and intermediate level students and can be used both during and after the Pre-service training (PST). It contains exercises, tasks for listening comprehension, a few songs, articles for reading comprehension, exercises for practicing of pronunciation, a short dictionary, and miscellaneous items. Chapter one contains various types of exercises that are aimed at practicing the vocabulary and selected grammar structures. The vocabulary used in exercises is from the PST. Chapter two contains tasks for listening comprehension. It has to be used together with a tape. Chapter three contains songs. It has to be used together with a tape. Chapter four contains articles for reading comprehension. Some of the articles aim at practicing vocabulary studied in class, while others seek to enlarge the learners’ vocabulary. Chapter five contains exercises for practicing pronunciation. It has to be used together with a tape. Chapter six contains a short dictionary with vocabulary studied during the Pre-service training. In the appendix you will find various materials, for instance puzzles and exercises with pictures which are used during the Pre-service training. PST Slovak Language Instructors
 `
 
 ## Druhá lekcia (2.)
-****
+---
 ako Ako sa máte? Ako sa máš? dobre výborne veľmi tiež A vy? A ty?
 
  A: Dobrý deň, pani Nováková.
@@ -60,12 +61,12 @@ how How are you? (formal) How are you? (unformally) well, fine, good excellently
  - Thank you, fine. And you? - Thank you, I am also well. - Good bye, Mr. Kolár. - Good bye, Mrs. Nováková.
 
 
-### Ako sa máš? (neformálne)
+### **Ako sa máš? (neformálne)**
 
 A: B: A: B: Ahoj, Jana. Ahoj, Peter. Ako sa máš? Ďakujem, dobre. A ty? Á, nie veľmi dobre. 
 - Hi, Jana. - Hi, Peter. How are you? (unformally) - Thank you, well. And you? - Not very well.
 
-## Tretia lekcia (3.)  Som z ...
+## _Tretia lekcia (3.)  Som z ..._
 
 Američan
 Američanka
@@ -84,7 +85,8 @@ z USA zo Slovenska
 American (man) American (woman) U.S.A. from the U.S.A. Slovak (man) Slovak (woman) Slovakia from where Where are you from? (formal) Where are you from? (unformally) from U.S.A. from Slovakia
 Play Tape
 
-###Odkiaľ ste? (formálne)
+### **Odkiaľ ste? (formálne)**
+---
 
 A: B: A: B: A: B: Odkiaľ ste? 
 Som zo Slovenska. A vy?
@@ -97,15 +99,15 @@ Where are you from? (formal) I am from Slovakia. And you? I am from the U.S.A. A
 
 A: Odkiaľ ste? B: Som z USA. A vy? A: Som zo Slovenska. Ste Američanka? B: Áno, som Američanka. A vy? A: Som Slovenka.
 
-###Odkiaľ si? (neformálne)
+### **Odkiaľ si? (neformálne)**
 
 A: B: A: B: A: B: A: B: A: B: A: Odkiaľ si? Som zo Slovenska. A ty? Som z USA. Si Američan? Áno, som Američan. A ty? Som Slovenka. Odkiaľ si? Som zo Slovenska. A ty? Som z USA. Si Američanka? Áno, som Američanka. A ty? Where are you from? (unformally) I am from Slovakia. And you? I am from the U.S.A. Are you an American? (man) Yes, I am an American. (man)And you? I am a Slovak. (woman) Where are you from? (unformally) I am from Slovakia. And you? I am from the U.S.A. Are you an American? (woman) Yes, I am an American. (woman). And you? I am a Slovak. (woman)
 
 B: Som Slovenka.
 
 
-##Štvrtá lekcia (4.)
-
+## Štvrtá lekcia (4.)
+---
 Volám sa ... 
 Ako sa voláte?
  Ako sa voláš? 
@@ -127,7 +129,7 @@ What is your name? (formal) My name is Steve Armstrong. And you? My name is Jana
 Peace Corps / Slovakia
 
 ## Piata lekcia (5.)
-
+---
 študent študentka lektor lektorka konzultant konzultantka ekológ ekologička inžinier inžinierka lekár lekárka Som... Čo robíte? Čo robíš? A: Čo robíte, pán Armstrong? B: Som lektor. A vy? A: Som inžinierka. A: Čo robíte, pani Davis? B: Som lektorka. A vy? A: Som inžinier. A: Čo robíte, pán Cooper? B: Som konzultant. A vy? A: Som lekárka. A: Čo robíš, Judith? B: Som konzultantka. A ty? A: Som lekár. A: Čo robíš, Paul? B: Som ekológ. A ty? A: Som študentka. A: Čo robíš, Ann? B: Som ekologička. A ty? A: Som študent.
 
 Som študent
@@ -155,7 +157,7 @@ My name is Jana Pavúková. I am a student. Jana Pavúková, a student.Thank you
 
 
 ## Siedma lekcia (7.)
-
+---
 **-
 **
 
@@ -187,7 +189,7 @@ Excuse me, where is the university? The university is here. Ďakujem. Excuse me,
 Peace Corps / Slovakia
 
 ## Ôsma lekcia (8.)
-
+---
 jeden dva tri štyri päť šesť sedem osem deväť desať jedenásť dvanásť trinásť štrnásť pätnásť šestnásť sedemnásť osemnásť devätnásť dvadsať dvadsaťjeden dvadsaťdva dvadsaťtri .... tridsať štyridsať päťdesiat šesťdesiat sedemdesiat osemdesiat deväťdesiat sto stojeden stodva dvesto tisíc A: Aké je vaše telefónne číslo? B: Moje telefónne číslo je 296 724. A: Aké je tvoje telefónne číslo? B: Moje telefónne číslo je 76 24 27. A: B: A: B: Prosím? Tu Novotná. Je tam 438 251? Nie, tu je 438 512. Prepáčte, to je omyl. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty twenty-one twenty-two twenty-three
 
 Jeden, dva, tri,...
@@ -213,6 +215,7 @@ How much does a coffee cost ? 15 crowns. How much does a tea cost ? 12 crowns. H
 
 
 ## Deviata lekcia (9.)
+---
 
 kto čo Kto je to? Čo je to?
 
@@ -229,7 +232,7 @@ Who is it? That is a student. (woman) car house paper pen dictionary What is it?
 Peace Corps / Slovakia
 
 ## Desiata lekcia (10.)
-
+---
 čaj chlieb džús káva mlieko ovocie pivo víno voda zelenina prosím si Čo si prosíte? Čo si prosíš? 
 
 A: Čo si prosíte, pani Novotná? B: Prosím si kávu. A: Prosím. B: Ďakujem. A: Čo si prosíte, pán Bacúr? B: Prosím si vodu. A: Čo si prosíš, Tomáš? B: Prosím si pivo. A: Prosím. B: Ďakujem. A: Čo si prosíš, Zuzana? A: Prosím si vodu. 
@@ -244,7 +247,7 @@ What would you like, Mrs. Novotná? (formal) Coffee, please. Here you are. Thank
 Peace Corps / Slovakia
 
 ## Jedenásta lekcia (11.)
-
+---
 Áno. Nie. Áno, prosím si. Nie, neprosím si. 
 Nie, ďakujem, neprosím si. 
 
@@ -255,9 +258,9 @@ Nie, ďakujem, neprosím si.
 Yes. No. Yes, I would like. No, I don’t want. No, thank you, I don’t want. Would you like a coffee? (formal) Yes, please. Would you like a tea? (formal) Yes, please. Would you like a beer? (formal) Yes, please. Would you like a coffee? (formal) No, thank you. Would you like a tea? (formal) No, thank you. Would you like a beer? (formal) No, thank you. Katka, would you like a juice? (unformally) Yes, please. Milan, would you like milk? (unformally) No, thank you.
 
 
-Peace Corps / Slovakia
 
 ## Dvanásta lekcia (12.)
+---
 s bez tmavý, tmavá, tmavé svetlý, svetlá, svetlé čierny červený, červená, červené biely, biela, biele ovocný citrón alebo zaplatím 
 
 A: B: A: B: A: B: A: B: Čo si prosíte? Prosím si viedenskú kávu. Prosím. Ďakujem. Zaplatím. 19 korún. Prosím. Ďakujem. Dovidenia. Dovidenia.
@@ -273,7 +276,7 @@ Play Tape
 Peace Corps / Slovakia
 
 ## lekcia (13.) A, B, C, ...
-
+---
 A, B, C, D, E, F, G, H, CH, I, J, K, L, M, N, O, P, R, S, T, U, V, X, Y, Z ABCDEFGHCH IJKLMNOPRSTUVXYZDZ DŽ Č Ď Ľ Ň Š Ť Ž C- Č D-Ď L-Ľ N-Ň S-Š T-Ť Z-Ž
 
  a-á e-é auto, ahoj, august babka, balkón, Bratislava cukor, citrón, centimeter dom, dole, Darina Eva, Elena, ekológ fajn, február, fotografia guma, gitara, gymnázium hotel, hore, história chuť, chlieb, chodba Iveta, idea, idem Jana, január, jeden káva, kino, konzultant lampa, lóža, loď Modra, mlieko, marec nos, november, Nitra osem, október, obálka pán, prosím, pomaly ráno, ryba, rieka som, slečna, Slovensko tu, tam, telefón univerzita, utorok, ucho večer, voda, víno exkurzia, expert, expres ypsilon, fyzika zle, zima, zajtra medzi džem, džús, džez čaj, čo, prepáč ďakujem, ďalej, ďaleko ľad, vľavo, nedeľa skriňa, vaňa, kuchyňa študent, škola, šál písať, hovoriť, čítať žena, Žilina, žaba 
