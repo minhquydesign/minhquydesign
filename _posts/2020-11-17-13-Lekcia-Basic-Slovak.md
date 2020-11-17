@@ -2,6 +2,7 @@
 
 title:  Slovenčina 13 lekcia
 layout: post
+excerpt_separator: <!--more-->
 
 ---
 
@@ -12,7 +13,7 @@ layout: post
 >Užitočné slová, frázy a krátke dialógy na prvé dni na Slovensku s anglickým prekladom. Výslovnosť počujete z kazety.
 
 >Các từ, cụm từ hữu ích và các đoạn hội thoại ngắn cho những ngày đầu tiên ở Slovakia với bản dịch tiếng Anh.  Bạn nghe cách phát âm từ băng.
-
+<!--more-->
 ## Prvá lekcia (1.) Dobrý deň!
 ---
 Dobré ráno! Dobrý deň! Dobrý večer! Dovidenia! Dobrú noc! Ahoj! pán pani slečna
