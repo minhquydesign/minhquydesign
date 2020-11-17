@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Post lap chi mục bài đăng
+title: Post lập chỉ mục bài viết trên trang
 ---
 - list
 
