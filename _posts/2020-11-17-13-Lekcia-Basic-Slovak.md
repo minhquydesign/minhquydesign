@@ -1,6 +1,8 @@
 ---
+
 title:  Slovenčina 13 lekcia
 layout: post
+
 ---
 
 # Slovenčina
@@ -17,6 +19,8 @@ Dobré ráno! Dobrý deň! Dobrý večer! Dovidenia! Dobrú noc! Ahoj! pán pani
 
 __Good morning! Good day! Good evening! Good bye! Good night! (when leaving for the night) Hi! (informal) Mister / Mr. Misses /Mrs. Miss /Ms.__
 
+ A-B dialog
+
  - Dobrý deň, pani Nováková. 
 - Dobrý deň, pán Kolár.
  - Dobrý večer, slečna Urbanová.
@@ -25,13 +29,14 @@ __Good morning! Good day! Good evening! Good bye! Good night! (when leaving for 
  - Dovidenia, slečna Novotná.
  - Ahoj, Jana. - Ahoj, Peter.
 
-__ - Good day, Mrs. Nováková.
+`` - Good day, Mrs. Nováková.
 - Good day, Mr. Kolár.
  - Good evening, Ms. Urbanová.
  - Good evening, Mr. Bacúr. - Good bye, Mrs. Pavúková. 
 - Good bye, Ms. Novotná.
  - Hi, Jana. 
- - Hi, Peter. __
+ - Hi, Peter. 
+``
 
 # INTRODUCTION
 ---
@@ -39,9 +44,13 @@ __ - Good day, Mrs. Nováková.
 This workbook, SLOVENČINA PLUS, has been designed for learners of Slovak – Peace Corps trainees or volunteers. It is suitable for both beginners and intermediate level students and can be used both during and after the Pre-service training (PST). It contains exercises, tasks for listening comprehension, a few songs, articles for reading comprehension, exercises for practicing of pronunciation, a short dictionary, and miscellaneous items. Chapter one contains various types of exercises that are aimed at practicing the vocabulary and selected grammar structures. The vocabulary used in exercises is from the PST. Chapter two contains tasks for listening comprehension. It has to be used together with a tape. Chapter three contains songs. It has to be used together with a tape. Chapter four contains articles for reading comprehension. Some of the articles aim at practicing vocabulary studied in class, while others seek to enlarge the learners’ vocabulary. Chapter five contains exercises for practicing pronunciation. It has to be used together with a tape. Chapter six contains a short dictionary with vocabulary studied during the Pre-service training. In the appendix you will find various materials, for instance puzzles and exercises with pictures which are used during the Pre-service training. PST Slovak Language Instructors
 `
 
-## Druhá lekcia (2.)
+## Druhá lekcia (2.) ako. Ako sa máte?
 ---
-ako Ako sa máte? Ako sa máš? dobre výborne veľmi tiež A vy? A ty?
+ako
+Ako sa máte?
+Ako sa máš? 
+dobre výborne veľmi tiež A vy?
+A ty?
 
  A: Dobrý deň, pani Nováková.
  B: Dobrý deň, pán Kolár. Ako sa máte?
@@ -49,19 +58,31 @@ ako Ako sa máte? Ako sa máš? dobre výborne veľmi tiež A vy? A ty?
  B: Ďakujem, tiež dobre. Dovidenia, pán Kolár.
  A: Dovidenia, pani Nováková.
 
-Ako sa máte?
-how How are you? (formal) How are you? (unformally) well, fine, good excellently very also And you? (formal) And you? (unformally)
-
+``
+how
+How are you? (formal)
+How are you? (unformally) 
+well, fine, good 
+excellently very also And you? (formal) 
+And you? (unformally)
  - Good day, Mrs. Nováková.
  - Good day, Mr. Kolár.
  - How are you? (formal)
  - Thank you, fine. And you? - Thank you, I am also well. - Good bye, Mr. Kolár. - Good bye, Mrs. Nováková.
+``
 
 
 ### **Ako sa máš? (neformálne)**
 
-A: B: A: B: Ahoj, Jana. Ahoj, Peter. Ako sa máš? Ďakujem, dobre. A ty? Á, nie veľmi dobre. 
-- Hi, Jana. - Hi, Peter. How are you? (unformally) - Thank you, well. And you? - Not very well.
+Ahoj, Jana.
+ Ahoj, Peter. 
+Ako sa máš? 
+Ďakujem, dobre. 
+A ty? Á, nie veľmi dobre. 
+
+``
+Hi, Jana. - Hi, Peter. How are you? (unformally) - Thank you, well. And you? - Not very well.
+``
 
 ## Tretia lekcia (3.)  Som z ...
 ---
@@ -75,25 +96,32 @@ Slovensko
 odkiaľ 
 Odkiaľ ste? 
 Odkiaľ si?
- 
 z USA zo Slovenska
 
-
+``
 American (man) American (woman) U.S.A. from the U.S.A. Slovak (man) Slovak (woman) Slovakia from where Where are you from? (formal) Where are you from? (unformally) from U.S.A. from Slovakia
-Play Tape
+``
 
 ### **Odkiaľ ste? (formálne)**
+- dialog
 
-A: B: A: B: A: B: Odkiaľ ste? 
+Odkiaľ ste? 
 Som zo Slovenska. A vy?
  Som z USA. Ste Američan? 
 Áno, som Američan. A vy?
  Som Slovenka. 
+``
+Where are you from? (formal) I am from Slovakia. And you? I am from the U.S.A. Are you an American? (man) Yes, I am an American. (man) And you? I am a Slovak. (woman)
+``
 
-Where are you from? (formal) I am from Slovakia. And you? I am from the U.S.A. Are you an American? (man) Yes, I am an American. (man) And you? I am a Slovak. (woman) Where are you from? (formal) I am from the U.S.A. And you? I am from Slovakia. Are you an American? (woman) Yes, I am an American. (woman) And you? I am a Slovak.(woman)
 
+- dialog
 
 A: Odkiaľ ste? B: Som z USA. A vy? A: Som zo Slovenska. Ste Američanka? B: Áno, som Američanka. A vy? A: Som Slovenka.
+
+``
+Where are you from? (formal) I am from the U.S.A. And you? I am from Slovakia. Are you an American? (woman) Yes, I am an American. (woman) And you? I am a Slovak.(woman)
+``
 
 ### **Odkiaľ si? (neformálne)**
 
@@ -287,4 +315,4 @@ c: citrón,
 o-ó u-ú y-ý
 o: dom, okno, ó: citrón, október u: ucho, utorok, ú: jún, kultúra y: syn, ryba, ý: pekný, nový
 
-
+---
