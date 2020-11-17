@@ -11,14 +11,11 @@ layout: post
 
 >Các từ, cụm từ hữu ích và các đoạn hội thoại ngắn cho những ngày đầu tiên ở Slovakia với bản dịch tiếng Anh.  Bạn nghe cách phát âm từ băng.
 
-## Prvá lekcia (1.)
+## Prvá lekcia (1.) Dobrý deň!
 ---
-Dobrý deň!
-Good morning! 
-
-Good day! Good evening! Good bye! Good night! (when leaving for the night) Hi! (informal) Mister / Mr. Misses /Mrs. Miss /Ms.
-
 Dobré ráno! Dobrý deň! Dobrý večer! Dovidenia! Dobrú noc! Ahoj! pán pani slečna
+
+__Good morning! Good day! Good evening! Good bye! Good night! (when leaving for the night) Hi! (informal) Mister / Mr. Misses /Mrs. Miss /Ms.__
 
  - Dobrý deň, pani Nováková. 
 - Dobrý deň, pán Kolár.
@@ -28,13 +25,13 @@ Dobré ráno! Dobrý deň! Dobrý večer! Dovidenia! Dobrú noc! Ahoj! pán pani
  - Dovidenia, slečna Novotná.
  - Ahoj, Jana. - Ahoj, Peter.
 
-- Good day, Mrs. Nováková.
+__ - Good day, Mrs. Nováková.
 - Good day, Mr. Kolár.
  - Good evening, Ms. Urbanová.
  - Good evening, Mr. Bacúr. - Good bye, Mrs. Pavúková. 
 - Good bye, Ms. Novotná.
  - Hi, Jana. 
- - Hi, Peter.
+ - Hi, Peter. __
 
 # INTRODUCTION
 ---
