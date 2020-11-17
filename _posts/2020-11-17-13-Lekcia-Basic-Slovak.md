@@ -66,8 +66,8 @@ how How are you? (formal) How are you? (unformally) well, fine, good excellently
 A: B: A: B: Ahoj, Jana. Ahoj, Peter. Ako sa máš? Ďakujem, dobre. A ty? Á, nie veľmi dobre. 
 - Hi, Jana. - Hi, Peter. How are you? (unformally) - Thank you, well. And you? - Not very well.
 
-## _Tretia lekcia (3.)  Som z ..._
-
+## Tretia lekcia (3.)  Som z ...
+---
 Američan
 Američanka
  USA
@@ -86,7 +86,6 @@ American (man) American (woman) U.S.A. from the U.S.A. Slovak (man) Slovak (woma
 Play Tape
 
 ### **Odkiaľ ste? (formálne)**
----
 
 A: B: A: B: A: B: Odkiaľ ste? 
 Som zo Slovenska. A vy?
