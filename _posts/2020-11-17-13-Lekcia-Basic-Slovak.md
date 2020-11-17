@@ -5,7 +5,7 @@ layout: post
 
 # Slovenčina
 
-Useful expressions, phrases and short dialogues for the first days in Slovakia with English translation. How you pronounce the words and expressions, you can here from the tape.
+- Useful expressions, phrases and short dialogues for the first days in Slovakia with English translation. How you pronounce the words and expressions, you can here from the tape.
 
 Užitočné slová, frázy a krátke dialógy na prvé dni na Slovensku s anglickým prekladom. Výslovnosť počujete z kazety.
 
@@ -13,12 +13,10 @@ Các từ, cụm từ hữu ích và các đoạn hội thoại ngắn cho nhữ
 
 Peace Corps / Slovakia
 
-##Prvá
-
-lekcia (1.)
+## Prvá lekcia (1.)
 
 Dobrý deň!
-Play Tape Good morning! 
+Good morning! 
 
 Good day! Good evening! Good bye! Good night! (when leaving for the night) Hi! (informal) Mister / Mr. Misses /Mrs. Miss /Ms.
 
@@ -40,14 +38,13 @@ Dobré ráno! Dobrý deň! Dobrý večer! Dovidenia! Dobrú noc! Ahoj! pán pani
  - Hi, Jana. 
  - Hi, Peter.
 
-#INTRODUCTION
-Play Tape
-
+# INTRODUCTION
+``
 This workbook, SLOVENČINA PLUS, has been designed for learners of Slovak – Peace Corps trainees or volunteers. It is suitable for both beginners and intermediate level students and can be used both during and after the Pre-service training (PST). It contains exercises, tasks for listening comprehension, a few songs, articles for reading comprehension, exercises for practicing of pronunciation, a short dictionary, and miscellaneous items. Chapter one contains various types of exercises that are aimed at practicing the vocabulary and selected grammar structures. The vocabulary used in exercises is from the PST. Chapter two contains tasks for listening comprehension. It has to be used together with a tape. Chapter three contains songs. It has to be used together with a tape. Chapter four contains articles for reading comprehension. Some of the articles aim at practicing vocabulary studied in class, while others seek to enlarge the learners’ vocabulary. Chapter five contains exercises for practicing pronunciation. It has to be used together with a tape. Chapter six contains a short dictionary with vocabulary studied during the Pre-service training. In the appendix you will find various materials, for instance puzzles and exercises with pictures which are used during the Pre-service training. PST Slovak Language Instructors
 
-Peace Corps / Slovakia
+``
 
-##Druhá lekcia (2.)
+## Druhá lekcia (2.)
 
 ako Ako sa máte? Ako sa máš? dobre výborne veľmi tiež A vy? A ty?
 
@@ -66,11 +63,12 @@ how How are you? (formal) How are you? (unformally) well, fine, good excellently
  - Thank you, fine. And you? - Thank you, I am also well. - Good bye, Mr. Kolár. - Good bye, Mrs. Nováková.
 
 
-###Ako sa máš? (neformálne)
+### Ako sa máš? (neformálne)
 
-A: B: A: B: Ahoj, Jana. Ahoj, Peter. Ako sa máš? Ďakujem, dobre. A ty? Á, nie veľmi dobre. - Hi, Jana. - Hi, Peter. How are you? (unformally) - Thank you, well. And you? - Not very well.
+A: B: A: B: Ahoj, Jana. Ahoj, Peter. Ako sa máš? Ďakujem, dobre. A ty? Á, nie veľmi dobre. 
+- Hi, Jana. - Hi, Peter. How are you? (unformally) - Thank you, well. And you? - Not very well.
 
-##Tretia lekcia (3.)  Som z ...
+## Tretia lekcia (3.)  Som z ...
 
 Američan
 Američanka
@@ -82,7 +80,8 @@ Slovensko
 odkiaľ 
 Odkiaľ ste? 
 Odkiaľ si?
- z USA zo Slovenska
+ 
+z USA zo Slovenska
 
 
 American (man) American (woman) U.S.A. from the U.S.A. Slovak (man) Slovak (woman) Slovakia from where Where are you from? (formal) Where are you from? (unformally) from U.S.A. from Slovakia
