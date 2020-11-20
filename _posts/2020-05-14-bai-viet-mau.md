@@ -1,9 +1,40 @@
+
+
 ---
 layout: post
 title: Hướng dẫn viết bài
 categories: [blog, travel]
+tags: [demo, postdemo]
+---
+A banana is an edible fruit – botanically a berry – produced by several kinds
+of large herbaceous flowering plants in the genus Musa.
+
+In some countries, bananas used for cooking may be called "plantains",
+distinguishing them from dessert bananas. The fruit is variable in size, color,
+and firmness, but is usually elongated and curved, with soft flesh rich in
+starch covered with a rind, which may be green, yellow, red, purple, or brown
+when ripe.
+This is like the 
+****
+
+``
+---
+layout: post
+author: abc
+title: Hướng dẫn viết bài
+categories: [blog, travel]
 tags: [hot, summer]
 ---
+A banana is an edible fruit – botanically a berry – produced by several kinds
+of large herbaceous flowering plants in the genus Musa.
+
+In some countries, bananas used for cooking may be called "plantains",
+distinguishing them from dessert bananas. The fruit is variable in size, color,
+and firmness, but is usually elongated and curved, with soft flesh rich in
+starch covered with a rind, which may be green, yellow, red, purple, or brown
+when ripe.
+This is like the 
+``
 
 Đây là đoạn văn
 #h1
