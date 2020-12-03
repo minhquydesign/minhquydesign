@@ -4,8 +4,9 @@ author: minhquy
 title: Các loại vòng lặp trong PHP
 categories: [học php, học code]
 tags: [php, loop]
+excerpt_separator: <!--more-->
 ---
-
+<!--more-->
 ## Các vòng lặp Php
 + Các vòng lặp được sử dụng nhằm mục đích thi khối lệnh nào đó nhiều lần. Trong Php cung cấp một số loại vòng lặp:
 
