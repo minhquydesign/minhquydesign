@@ -11,6 +11,7 @@ Các hoạt động CRUD (Tạo, Đọc, Cập nhật, Xóa) cơ bản trong PHP
 
 Hoạt động cơ bản
  Tạo kho lưu trữ ngân hàng dữ liệu (banco.sqlite)
+
 ```
 if (!is_dir('db'))
   mkdir('db', 0755);
@@ -32,6 +33,7 @@ try {
 ```
 ## Read
 
+```
 $sql = "SELECT id,apelido,email,role,acesso,cadastro FROM usuarios";
 
 $query = $db->prepare($sql);
@@ -45,7 +47,10 @@ foreach ($resultado as $usuario) {
   echo "E-mail: " . $usuario->email . "<br />";
   echo "Cargo: " . $usuario->role . "<br />";
 }
+```
+
 ## Update
+```
 $sql = "UPDATE usuarios SET apelido = :apelido, email = :email, role = :role WHERE id = :id";
 
 try {
@@ -57,7 +62,9 @@ try {
 } catch (\PDOException $e) {
   echo "Erro ao atualizar registro: " . $e->getMessage();
 }
+```
 ## Delete
+```
 $sql = "DELETE FROM usuarios WHERE id = :id";
 
 try {
@@ -77,15 +84,19 @@ try {
 } catch (\PDOException $e) {
   echo "Erro ao inserir registro: " . $e->getMessage();
 }
+```
 ## Drop
+```
 $sql = "DROP TABLE IF EXISTS usuarios";
 try { 
   $db->exec($drop);
 } catch (\PDOException $e) {
   echo "Erro ao apagar a tabela: " . $e->getMessage();
 }
-Bônus
+```
+# Bônus
 ## Search
+```
 $sql = "SELECT * FROM usuarios WHERE apelido LIKE :termo OR email LIKE :termo";
 $termo = "%" . $termo . "%";
 
@@ -126,7 +137,7 @@ try {
   $resultado = $db->query($sql);
 } catch (\PDOException $e) {
   unset($e);
-  $resultado = false;
+  $resultado = false;8
 }
 
 if ($resultado !== false) {
@@ -134,7 +145,8 @@ if ($resultado !== false) {
 } else {
   echo "A tabela usuarios não existe.";
 }
-Lembrando que devido ao PDO::`ATTR_DEFAULT_FETCH_MODE,PDO::FETCH_OBJ` nosso resultado será um objeto no formato: $obj->nome
+```
+Lembrando que devido ao PDO::`ATTR_DEFAULT_FETCH_MODE,PDO::FETCH_OBJ` nosso resultado será um objeto no formato: `$obj->nome`
 
 Espero ter ajudado.
 
