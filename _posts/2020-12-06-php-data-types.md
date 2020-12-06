@@ -22,9 +22,9 @@ Các biến có thể lưu trữ dữ liệu thuộc các kiểu khác nhau và 
 	- Một số nguyên không được có dấu thập phân 
 	- Một số nguyên có thể là số dương hoặc số âm 
 	- Số nguyên có thể được chỉ định trong ký hiệu: thập phân (cơ số 10), thập lục phân (cơ số 16), bát phân (cơ số 8) hoặc ký hiệu nhị phân (cơ số 2)
-Trong ví dụ sau, $ x là một số nguyên. Hàm var_dump () trong PHP trả về kiểu dữ liệu và giá trị:
+	Trong ví dụ sau, $ x là một số nguyên. Hàm var_dump () trong PHP trả về kiểu dữ liệu và giá trị:
 
-### Example
+	### Example
 ```
 <?php
 $x = 5985;
