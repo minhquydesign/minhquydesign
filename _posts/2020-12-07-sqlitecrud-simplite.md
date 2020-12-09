@@ -11,8 +11,9 @@ excerpt_separator: <!--more-->
 - sqlitecrud simplite
 # index.php
 index all record
+
 ```
-<?php
+//<?php
 
 // Database name
 $database_name = "csdl_tudien.db";
@@ -30,7 +31,7 @@ $query = "SELECT td_id, * FROM tbl_tudien ORDER BY td_tv ASC";
 
 // Tạo truy vấn lưu vào biến $result
 $result = $db->query($query);
-?>
+//?>
 
 <?php while ($row = $result->fetchArray()) {
     ++$soHangDemDuoc; ?>
@@ -81,7 +82,7 @@ $result = $db->query($query);
 # Insert.php (add)
 
 ```
-<?php
+//<?php
 $message = ""; // initial message 
 if( isset($_POST['submit_data']) ){
 
