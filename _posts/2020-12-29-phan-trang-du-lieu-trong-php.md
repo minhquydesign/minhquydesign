@@ -7,10 +7,10 @@ tags: [PHP, SQL, MySQL, Phân Trang]
 excerpt_separator: <!--more-->
 ---
 
-Dưới đây là Thuật toán phân trang, hướng dẫn làm chức năng phân trang trong PHP.
-
 Phân trang cơ bản là quá trình lấy một tập hợp các kết quả và phân chia thành các trang để dễ xem hơn.Với những trang Web có dữ liệu lớn, việc phân trang là rất quan trọng, nó giúp trang web sẽ load nhanh hơn , giúp người dùng dễ dàng nhấn chọn trang mà mình mong muốn, đến được trang có nội dung mà mình cần, rất nhanh chóng, dễ dàng và chính xác.
 <!--more-->
+
+Dưới đây là Thuật toán phân trang, hướng dẫn làm chức năng phân trang trong PHP.
 # Tạo database
 Tạo một Cơ sở dữ liệu ví dụ `demo_phantrang`.
 Thực hiện truy vấn SQL trong PHPMyadmin trong DATABASENAME `demo_phantrang` như sau:
