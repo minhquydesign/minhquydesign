@@ -12,8 +12,8 @@ Dưới đây là Thuật toán phân trang, hướng dẫn làm chức năng 
 Phân trang cơ bản là quá trình lấy một tập hợp các kết quả và phân chia thành các trang để dễ xem hơn.Với những trang Web có dữ liệu lớn, việc phân trang là rất quan trọng, nó giúp trang web sẽ load nhanh hơn , giúp người dùng dễ dàng nhấn chọn trang mà mình mong muốn, đến được trang có nội dung mà mình cần, rất nhanh chóng, dễ dàng và chính xác.
 <!--more-->
 # Tạo database
-Tạo một Cơ sở dữ liệu ví dụ `test_phantrang`.
-Thực hiện truy vấn SQL trong PHPMyadmin trong DATABASENAME `test_phantrang` như sau:
+Tạo một Cơ sở dữ liệu ví dụ `demo_phantrang`.
+Thực hiện truy vấn SQL trong PHPMyadmin trong DATABASENAME `demo_phantrang` như sau:
 ```
 CREATE TABLE IF NOT EXISTS `news` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
@@ -24,10 +24,10 @@ CREATE TABLE IF NOT EXISTS `news` (
 SQL là một ngôn ngữ khá đơn giản và dễ học.
 Nếu bạn chưa học về SQL thì có thể xem đoạn mô tả thêm của chúng tôi.
 Trong đó:
-- ` CREATE TABLE IF NOT EXISTS `news` ` tạo bảng ́́́́́́news  nếu bảng không tồn tạo
-- ` CHARSET=utf8 COLLATE=utf8_unicode_ci ` hỗ trợ lưu trữ nhưng đoạn text tiếng việt có dấu.
+- ` CREATE TABLE IF NOT EXISTS `news` ` tạo bảng news nếu bảng không tồn tại.
+- ` CHARSET=utf8 COLLATE=utf8_unicode_ci ` hỗ trợ lưu trữ những đoạn text tiếng việt có dấu.
 - ` DEFAULT NULL ` mặc định sẽ là giá trị NULL.
-- ` `id` int(11) NOT NULL AUTO_INCREMENT ` 
+- `` `id` int(11) NOT NULL AUTO_INCREMENT ` khai báo cột id với giá trị là integer độ dài 11, không null, tự độnng tăng dần giá trị.
 # Tiếp tục thực hiện truy vấn SQL chèn dữ liệu vào bảng `test_phantrang`
  ```
  INSERT INTO `news` (`id`, `title`) VALUES
@@ -66,7 +66,7 @@ bạn có thể thay đổi tên file  `index.php` thành ví dụ `tenfile
         <?php 
         // PHẦN XỬ LÝ PHP
         // BƯỚC 1: KẾT NỐI CSDL
-        $conn = mysqli_connect('localhost', 'root', 'vertrigo', 'paging_example');
+        $conn = mysqli_connect('localhost', 'root', 'vertrigo', 'demo_phantrang');
  
         // BƯỚC 2: TÌM TỔNG SỐ RECORDS
         $result = mysqli_query($conn, 'select count(id) as total from news');
@@ -137,5 +137,10 @@ bạn có thể thay đổi tên file  `index.php` thành ví dụ `tenfile
     </body>
 </html>
 ```
+Trong đó:
+- `$total_records` tổng số hàng đã lấy được từ csdl dạng number.
+- `$total_page` tổng số trong tính được sau khi chia `$limit`.
+- `$current_page` trang hiện tại.
+- `$limit` đặt số hàng hiển thị mỗi trang có thể thay đổi.
 
 Thế là xong.
