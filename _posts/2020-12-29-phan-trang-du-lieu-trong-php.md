@@ -139,7 +139,7 @@ bạn có thể thay đổi tên file  `index.php` thành ví dụ `tenfile
 ```
 Trong đó:
 - `$total_records` tổng số hàng đã lấy được từ csdl dạng number.
-- `$total_page` tổng số trong tính được sau khi chia `$limit`.
+- `$total_page` tổng số trang tính được sau khi chia `$limit`.
 - `$current_page` trang hiện tại.
 - `$limit` đặt số hàng hiển thị mỗi trang có thể thay đổi.
 
