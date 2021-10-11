@@ -1,2 +1,2 @@
 # WEBSITE URL
- [https://minhquydesign.github.io/](minhquydesign.github.io)
+ <a target="_blank" href="https://minhquydesign.github.io/">Open</a>
